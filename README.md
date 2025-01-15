@@ -1,6 +1,6 @@
 # cibersecurity-desafio-phishing
 Criação de um Phishing com o Kali Linux
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Instagram
 
 ### Ferramentas
 
